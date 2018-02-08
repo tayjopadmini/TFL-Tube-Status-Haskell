@@ -1,4 +1,5 @@
 # tfl-tube
+Done as a group project for Functional Programming
 EXECUTION OF THE APPLICATION
 In order to run the application, the first step would be to navigate to the folder that has the files for the
 app.
